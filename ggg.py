@@ -47,9 +47,8 @@ sw.log("Auth Token : " + str(sw.authToken))
 
 print ("☆☆☆[ Login BotYou ]☆☆☆")
 
-print ("Creator dhenz415 ")
-poll = LinePoll(cl)
-call = cl
+poll = OEPoll(cl)
+#call = cl
 creator = ["u4720a60c5599c6aa7bb1cb556ae929f4"]
 owner = ["u4720a60c5599c6aa7bb1cb556ae929f4"]
 admin = ["u4720a60c5599c6aa7bb1cb556ae929f4"]
